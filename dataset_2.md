@@ -1,0 +1,2 @@
+
+Consistent with the first collection, the $2^{nd}$ dataset of COP-KPIs was collected from 475 gNBs over the period from May 4, 2022, to May 26, 2022. Data were captured at 15-minute intervals from each gNB. This dataset comprised 16 observational covariates and 4 handover-related treatment COP metrics, with the number of RRC-connected users serving as the outcome variable. A sliding window approach was utilized for sampling, set with a window size of 192 and a stride of 48, resulting in a total of 5575 samples across the 475 gNBs.
