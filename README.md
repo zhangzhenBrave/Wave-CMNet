@@ -16,9 +16,6 @@ Train and evaluate the model. We provide all the above tasks under the folder ./
 bash ./scripts/model.sh
     </code>
   </pre>
-  <button style="position: absolute; top: 0; right: 0; padding: 5px; background: #f5f5f5; border: none; cursor: pointer;" onclick="copyCode()">
-    📋
-  </button>
 </div>
 
 ## Contact
