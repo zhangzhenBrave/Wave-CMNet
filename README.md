@@ -1,7 +1,7 @@
 # Causal Modeling-Based Multivariate KPIs Prediction for Parameter Adjustment in Cellular Networks
 The repo is the official implementation for the paper: Causal Modeling-Based Multivariate KPIs Prediction for Parameter Adjustment in Cellular Networks. 
 ## Overall Architecture
-![Logo](./figure/wavecmnet.png)
+![Logo](./figure/wave_cmnet.png)
 
 ## China Mobile dataset
 For details on the indicators (names and types) in the two China Mobile datasets, refer to dataset_1.md and dataset_2.md.
